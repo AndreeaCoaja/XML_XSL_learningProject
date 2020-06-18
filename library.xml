@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="library.xsl"?>
+<library>
+   <book category="computerScience">
+      <title>Title1</title>
+      <author>Autor1</author>
+      <category>Computer Science</category>
+      <year>an1</year>
+      <isbn>isbn1</isbn>
+   </book>
+   <book category="computerScience">
+      <title>Title2</title>
+      <author>Autor2</author>
+      <category>Computer Science</category>
+      <year>an2</year>
+      <isbn>isbn2</isbn>
+   </book>
+   <book category="history">
+      <title>Title3</title>
+      <author>Autor3</author>
+      <category>History</category>
+      <year>an3</year>
+      <isbn>isbn3</isbn>
+   </book>
+   <book category="mathe">
+      <title>Title4</title>
+      <author>Autor4</author>
+      <category>Mathematics</category>
+      <year>an4</year>
+      <isbn>isbn4</isbn>
+   </book>
+   <book category="chemistry">
+      <title>Title5</title>
+      <author>Autor5</author>
+      <category>Chemistry</category>
+      <year>an5</year>
+      <isbn>isbn5</isbn>
+   </book>
+   <book category="history">
+      <title>Title6</title>
+      <author>Autor6</author>
+      <category>History</category>
+      <year>an6</year>
+      <isbn>isbn6</isbn>
+   </book>
+   <book category="history">
+      <title>Title7</title>
+      <author>Autor7</author>
+      <category>History</category>
+      <year>an7</year>
+      <isbn>isbn7</isbn>
+   </book>
+   <book category="chemistry">
+      <title>Title8</title>
+      <author>Autor8</author>
+      <category>Chemistry</category>
+      <year>an8</year>
+      <isbn>isbn8</isbn>
+   </book>
+   <book category="mathe">
+      <title>Title9</title>
+      <author>Autor9</author>
+      <category>Mathematics</category>
+      <year>an9</year>
+      <isbn>isbn9</isbn>
+   </book>
+</library>

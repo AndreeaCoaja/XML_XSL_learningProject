@@ -1,0 +1,73 @@
+h1 {
+text-align:center;
+}
+
+table.ComputerScience {
+
+border: 1px solid blue;
+width: 100%;
+}
+
+table.ComputerScience td{
+text-align:center;
+
+font-style:italic;
+}
+
+table.ComputerScience th{
+border: 1px solid blue;
+}
+
+table.History{
+margin: 20px 0;
+border: 5px solid tomato;
+width: 50%;
+border-collapse: collapse;
+}
+
+table.History td{
+text-align:center;
+font-style:italic;
+
+}
+
+table.History th{
+border: 1px solid tomato;
+font-size:25px;
+}
+
+table.Mathematics{
+margin: 70px 50px;
+width:30%;
+border-collapse: collapse;
+}
+
+table.Mathematics td{
+text-align:center;
+font-style:italic;
+font-size:20px;
+border: 1px solid slateblue;
+}
+
+table.Mathematics th{
+border: 3px solid slateblue;
+height: 50px;
+}
+
+table.Chemistry{
+margin: 20px 0;
+width:30%;
+border-collapse: collapse;
+}
+
+table.Chemistry td{
+text-align:center;
+font-style:oblique ;
+font-size:12px;
+
+}
+
+table.Chemistry th{
+height: 80px;
+border: 5px solid MediumSeaGreen;
+}
